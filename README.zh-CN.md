@@ -18,5 +18,6 @@ _Read this in other languages:_
 
 ## 参考
 
-Wikipedia (鸡尾酒排序): https://zh.wikipedia.org/wiki/%E9%B8%A1%E5%B0%BE%E9%85%92%E6%8E%92%E5%BA%8F<br>
-Wikipedia (冒泡排序): https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F
+- [鸡尾酒排序(维基百科)](https://zh.wikipedia.org/wiki/%E9%B8%A1%E5%B0%BE%E9%85%92%E6%8E%92%E5%BA%8F)
+
+- [冒泡排序(维基百科)](https://zh.wikipedia.org/wiki/%E5%86%92%E6%B3%A1%E6%8E%92%E5%BA%8F)
