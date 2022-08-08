@@ -4,7 +4,7 @@ UECS2363 SOFTWARE CONSTRUCTION AND CONFIGURATION Practical 4-6
 # Cocktail Shaker Sort
 
 _Read this in other languages:_
-[_Português_](README.pt-BR.md)
+[简体中文](README.zh-CN.md)
 
 Cocktail Shaker Sort is an algorithm that is a Bidirectional Bubble Sort.
 
