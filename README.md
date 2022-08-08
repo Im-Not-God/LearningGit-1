@@ -15,7 +15,7 @@ Wikipedia (Cocktail Shaker Sort): https://en.wikipedia.org/wiki/Cocktail_shaker_
 Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
 
 ![Algorithm Visualization](https://upload.wikimedia.org/wikipedia/commons/e/ef/Sorting_shaker_sort_anim.gif)
-![Algorithm Visualization](https://tenor.com/view/sort-graph-cocktail-sort-chart-linear-representation-gif-15796785)
+![Algorithm Visualization](https://c.tenor.com/5YsBNL0VX6EAAAAd/sort-graph.gif)
 
 ## Complexity
 
