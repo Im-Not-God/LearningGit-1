@@ -21,5 +21,6 @@ While it improves on bubble sort by more quickly moving items to the beginning o
 
 ## References
 
-Wikipedia (Cocktail Shaker Sort): https://en.wikipedia.org/wiki/Cocktail_shaker_sort<br>
-Wikipedia (Bubble Sort): https://en.wikipedia.org/wiki/Bubble_sort
+- [Cocktail Shaker Sort on Wikipedia](https://en.wikipedia.org/wiki/Cocktail_shaker_sort)
+
+- [Bubble Sort on Wikipedia](https://en.wikipedia.org/wiki/Bubble_sort)
